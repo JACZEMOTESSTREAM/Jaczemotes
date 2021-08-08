@@ -38,17 +38,6 @@ p {
   text-align: center;
 }
 
-pm {
-  color: #FFF;
-  font-size: 160%;
-  line-height: 155%;
-  padding: 3%;
-  text-indent: 2%;
-  text-align: center;
-  float: inherit;
-  font-weight: bold;
-}
-
 h3 {
   font-size: 175%;
   line-height: 155%;
@@ -164,31 +153,37 @@ a:hover {
   font-weight: bold;
   color: #FF0400;
 }
-.sliderP {
-  width: 1080px;
-  max-width:1080px;
+.sliderP img {
+  width: 788px;
+  max-width:940px;
   padding-right: 0px;
   margin-left: 0 auto;
   margin-right: 0 auto;
+  margin-top: 0 auto;
+}
+.sliderP {
+  width: 788px;
+  max-width:940px;
+  padding-right: 0px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 0 auto;
 }
 .slider {
-  width: 360px;
-  max-width:360px;
-  padding-right: 0px;
-  margin-left: 0 auto;
+  width: 580px;
+  max-width:580px;
+  padding: 10px;
+  float: left;
+}
+.sliderpub img {
+  width: 720px;
+  max-width:720px;
+  text-align: center;
   margin-right: 0 auto;
   margin-top: 0 auto;
-  float:left;
-  width: 31.5%;
-  float: left;
-  padding: 10px;
-  text-align: center;
-}
-
+}*/
 .slider img {
-  width: 360px;
-  max-width:360px;
+  width: auto;
   padding-right: 0px;
   margin-left: 0 auto;
   margin-right: 0 auto;
@@ -350,7 +345,6 @@ footer.second p, .second a {
   header #logo {
     margin: 15px 0 20px -25px;
   }
-
 
 
 
