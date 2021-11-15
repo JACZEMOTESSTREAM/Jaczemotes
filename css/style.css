@@ -134,7 +134,7 @@ a:hover {
   text-align: center;
   float: none;
   font-weight: bold;
-  color: #FF0400;
+  color: #WHITE;
 }
 
 .FPI  img {
@@ -236,6 +236,13 @@ a:hover {
   float: right;
   width: 110%;
 }
+.sliderpub2{
+  width: 500px;
+  max-width:500px;
+  padding-right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0 auto;}
 .sidebar p {
   color: #ffffff;
   font-size: 80%;
