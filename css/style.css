@@ -12,6 +12,15 @@
 justify-content: center;
 }
 
+F {
+  background-color: #D500FF;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-attachment: fixed;
+  font-family: sans-serif;
+  margin: 0 auto;
+}
 #contenido{
   background: url(../img/Pics/O2.png);
   background-repeat: no-repeat;
@@ -30,6 +39,7 @@ p {
   font-size: 160%;
   line-height: 155%;
   padding: 3%;
+  font-weight: bold;
   text-indent: 2%;
   text-align: center;
 }
@@ -131,6 +141,7 @@ a:hover {
   float: none;
   font-weight: bold;
   color: #WHITE;
+  font-size: 100%;
 }
 
 .FPI  img {
@@ -166,10 +177,15 @@ a:hover {
   margin-top: 0 auto;
 }
 .slider {
-  width: 580px;
-  max-width:580px;
+  width: 500px;
+  max-width:500px;
   padding: 10px;
+  padding-right: 80px;
   float: left;
+  text-align: center;
+  margin-left: 30 auto;
+  margin-right: 0 auto;
+  margin-top: 0 auto;
 }
 .sliderpub img {
   width: 720px;
