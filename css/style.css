@@ -13,7 +13,7 @@ justify-content: center;
 }
 
 F {
-  background-color: #D500FF;
+  background-color: #2F2E32;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -29,7 +29,7 @@ F {
   background-attachment: fixed;
 }
 body {
-  background-color: #2B2342;
+  background-color: #2F2E32;
     font-family: sans-serif;
     margin: 0 auto;
 }
@@ -278,7 +278,7 @@ font-weight: bold;
 }
 
 footer {
-  background: #FFA800;
+  background: #BBBBBB;
   width: 100%;
   overflow: auto;
 }
@@ -310,7 +310,7 @@ footer {
 }
 
 .footer-nav a:hover {
-  color: #FF2875;
+  color: #2F2E32;
 }
 
 .social {
@@ -330,7 +330,7 @@ footer {
 }
 
 .social i:hover {
-  color: #FF2875;
+  color: #2F2E32;
 }
 
 footer.second {
@@ -340,7 +340,7 @@ footer.second {
 }
 
 footer.second a:hover {
-  color: #FF2875;
+  color: #2F2E32;
 }
 
 footer.second p, .second a {
